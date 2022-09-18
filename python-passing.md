@@ -1,6 +1,7 @@
 ## Pass by value and Pass by reference
 
-<img src="pass-by-reference-vs-pass-by-value-animation.gif" width="300" align="left">
+<img src="pass-by-reference-vs-pass-by-value-animation.gif" width="400">
+
 
 In python, it is neither `pass-by-value` nor `pass-by-reference`, Arguments are `passed-by-assignment` (or We can say Python **`passes reference to object by value`** or we can say ***it is "pass by value" but all values are just references to objects.***)
 
